@@ -7,8 +7,6 @@ function Questions(err, file){
     };
 
     var quiz_data = JSON.parse(file);
-
-function User ()
     console.log("All answers are an object, so type 'a.....'");
     var i = 0;
     var x = 0;
